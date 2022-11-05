@@ -1,0 +1,14 @@
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\bin\Debug\netcoreapp3.1\T12_JEMH_1043721.exe
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\bin\Debug\netcoreapp3.1\T12_JEMH_1043721.deps.json
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\bin\Debug\netcoreapp3.1\T12_JEMH_1043721.runtimeconfig.json
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\bin\Debug\netcoreapp3.1\T12_JEMH_1043721.runtimeconfig.dev.json
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\bin\Debug\netcoreapp3.1\T12_JEMH_1043721.dll
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\bin\Debug\netcoreapp3.1\T12_JEMH_1043721.pdb
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\obj\Debug\netcoreapp3.1\T12_JEMH_1043721.csproj.AssemblyReference.cache
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\obj\Debug\netcoreapp3.1\T12_JEMH_1043721.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\obj\Debug\netcoreapp3.1\T12_JEMH_1043721.AssemblyInfoInputs.cache
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\obj\Debug\netcoreapp3.1\T12_JEMH_1043721.AssemblyInfo.cs
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\obj\Debug\netcoreapp3.1\T12_JEMH_1043721.csproj.CoreCompileInputs.cache
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\obj\Debug\netcoreapp3.1\T12_JEMH_1043721.dll
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\obj\Debug\netcoreapp3.1\T12_JEMH_1043721.pdb
+C:\Users\Contabilidad Finanza\source\repos\T12_JEMH_1043721\T12_JEMH_1043721\obj\Debug\netcoreapp3.1\T12_JEMH_1043721.genruntimeconfig.cache
